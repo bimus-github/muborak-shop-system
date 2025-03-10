@@ -378,10 +378,6 @@ export const useReactTable = (props: Props) => {
           id: "date",
           value: dateFormat(new Date(), true),
         },
-        {
-          id: "form",
-          value: "Nasiya",
-        },
       ],
     },
     state: {
